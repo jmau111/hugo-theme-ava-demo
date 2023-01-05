@@ -4,7 +4,7 @@ title = "Hugo Ava Theme"
 theme = "hugo-theme-ava"
 paginate = 7
 mainSections = "post"
-canonifyURLs = true # don't remove that
+
 
 [languages]
   [languages.en]
@@ -23,6 +23,7 @@ canonifyURLs = true
   ga_id=""
   mainSections = ["post"]
   disqus = "xxxxxxx"
+  defaultImage = "https://raw.githubusercontent.com/jmau111/hugo-theme-ava/main/images/default.jpeg"
   
 
   [params.meta_tags]
