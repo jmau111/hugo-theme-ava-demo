@@ -5,6 +5,8 @@ theme = "hugo-theme-ava"
 paginate = 7
 mainSections = "post"
 
+[outputs]
+home = ["HTML", "humans.txt"]
 
 [languages]
   [languages.en]
