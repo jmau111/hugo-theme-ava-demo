@@ -41,11 +41,11 @@ canonifyURLs = true
    [params.humans_txt]
     dev_team = "jmau111"
     dev_github = "https://github.com/jmau111"
-    thanks = "Hugo"
+    thanks = ""
     last_update = "January 2023"
-    standards = "HTML, CSS, JavaScript, Go"
-    components = "humans-generator"
-    software = "vim"
+    standards = "HTML, CSS, JavaScript"
+    components = "Hugo"
+    software = "Vim"
     other_notes = "Made in Poland"
 
 [markup]
