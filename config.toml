@@ -6,7 +6,12 @@ paginate = 7
 mainSections = "post"
 
 [outputs]
-home = ["HTML", "humans.txt"]
+  home = ["HTML", "humans"]
+  
+  [outputFormats.humanstxt]
+    baseName = "humans"
+    isPlainText = true
+    mediaType = "text/plain"
 
 [languages]
   [languages.en]
