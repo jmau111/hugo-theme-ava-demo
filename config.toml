@@ -6,7 +6,7 @@ paginate = 7
 mainSections = "post"
 
 [outputs]
-  home = ["HTML", "humans"]
+  home = ["HTML", "humanstxt"]
   
   [outputFormats.humanstxt]
     baseName = "humans"
