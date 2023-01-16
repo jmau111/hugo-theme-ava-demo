@@ -42,7 +42,6 @@ canonifyURLs = true
     dev_team = "jmau111"
     dev_github = "https://github.com/jmau111"
     thanks = ""
-    last_update = "January 2023"
     standards = "HTML, CSS, JavaScript"
     components = "Hugo"
     software = "Vim"
