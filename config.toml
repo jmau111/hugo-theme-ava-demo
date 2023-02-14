@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en"
-title = "Hugo Ava Theme"
+title = "DANDYLINE"
 theme = "hugo-theme-ava"
 paginate = 7
 mainSections = "post"
